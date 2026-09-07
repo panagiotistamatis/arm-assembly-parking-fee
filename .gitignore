@@ -1,0 +1,31 @@
+# Keil uVision build artifacts / IDE files
+*.axf
+*.o
+*.crf
+*.d
+*.map
+*.lst
+*.htm
+*.dep
+*.bak
+*.__i
+*.iex
+*.tra
+*.lnp
+*.sct
+*.scvd
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.uvproj.saved_uv4
+*_uvopt.bak
+*_uvproj.bak
+Objects/
+Listings/
+RTE/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
